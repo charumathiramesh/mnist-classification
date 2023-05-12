@@ -5,8 +5,16 @@
 To Develop a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images.
 
 ## Problem Statement and Dataset
+MNIST Handwritten Digit Classification Dataset is a dataset of 60,000 small square 28×28 pixel grayscale images of handwritten single digits between 0 and 9.
+
+The task is to classify a given image of a handwritten digit into one of 10 classes representing integer values from 0 to 9, inclusively.
+
+It is a widely used and deeply understood dataset and, for the most part, is “solved.” Top-performing models are deep learning convolutional neural networks that achieve a classification accuracy of above 99%, with an error rate between 0.4 %and 0.2% on the hold out test dataset.
+![190914706-5a654e37-59c4-4115-8e76-079f569c01bc](https://github.com/charumathiramesh/mnist-classification/assets/120204455/2b5c61fc-dc0c-4a8a-909c-ee44909a6122)
+
 
 ## Neural Network Model
+![191715568-2c1f9d42-2742-427f-90d1-9fbb10b80888](https://github.com/charumathiramesh/mnist-classification/assets/120204455/223e26d6-1b25-43b3-a292-a2fe67daaafa)
 
 Include the neural network model diagram.
 
